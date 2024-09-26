@@ -4,7 +4,9 @@
   "description": "Desafios de logica de programacao",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "classificadorHeroi": "node ClassificadorHeroi.js",
+    "calculadoraPartida": "node CalculadoraPartidas.js",
+    "heroi":"node Heroi.js"
   },
   "author": "",
   "license": "ISC",
